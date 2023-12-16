@@ -1,6 +1,6 @@
 # WILL A DRIVER ACCEPT THIS COUPON?
 
-[Lisa's Repository](https://nodesource.com/products/nsolid)
+[Lisa's Repository](https://github.com/lisajacob/Practical_Application_Assignment_5.1/)
 
 My company, The Rad Couponistas, wants to build a coupon recommendation system. They've tasked me to create feature profiles that will most likely accept coupons based on data collected via an Amazon Mechanical Turk survey published on the UCI website.
 
